@@ -1,1 +1,1 @@
-# tmhi-student-raiting
+# student-raiting
