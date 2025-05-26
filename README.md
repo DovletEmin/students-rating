@@ -1,1 +1,1 @@
-# student-raiting
+# students-raiting
