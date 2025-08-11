@@ -1,1 +1,1 @@
-# students-raiting
+Student-Ratings
